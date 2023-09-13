@@ -1,0 +1,123 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMIVGdVBfQmbSuBS8SWTlzr",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Nischithasanchi/ANN-BY-BACK-PROPOGATION/blob/main/Learning%20Python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 2,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "0xazGp_sL0lW",
+        "outputId": "2ffb2009-a371-4e03-e4e5-235781d14578"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "moni\n",
+            "nischi\n",
+            "laika\n"
+          ]
+        }
+      ],
+      "source": [
+        "family=[\"moni\",\"nischi\",\"laika\"]\n",
+        "m,n,l=family\n",
+        "print(m)\n",
+        "print(n)\n",
+        "print(l)"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Output variable\n",
+        "a = \"Laika\"\n",
+        "b = \" is my\"\n",
+        "c= \" life\"\n",
+        "print(a + b + c)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "OKiWAwU7MsJy",
+        "outputId": "a99f68a8-3c33-472f-dec1-94c760c41f00"
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Laika is my life\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# add number in alphabet in sameline\n",
+        "x=10\n",
+        "y=\"moni\"\n",
+        "print(x,y)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3OP4yj3NOFxu",
+        "outputId": "4c2f0e3a-c071-4d37-b9f5-9beadb1101b9"
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "10 moni\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Global Variable\n"
+      ],
+      "metadata": {
+        "id": "WbBtIZ2OO6ia"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
